@@ -39,17 +39,15 @@ h3 {
 }
 
 .bottom-cloud {
-    position: absolute;
-    left: 80px;
-    height: 30%;
-    bottom: 300px;
+    padding-right: 70%;
+    height: 200px;
+    width: 200px;
 }
 
 .top-cloud {
-    position: absolute;
-    right: 70px;
-    top: 10px;
-    height: 30%;
+    padding-left: 70%;
+    height: 200px;
+    width: 200px;
 }
 
 .topnav {
