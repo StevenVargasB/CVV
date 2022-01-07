@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.img {
+    border-radius: 50%;
+    height: 260px;
+    padding-top: 10px;
+}
+
+h1 {
+    margin-top: 0px;
+    font-family: 'Lobster', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-container {
+    background-color: rgb(11, 83, 143);
+    position: relative;
+    padding-top: 100px;
+    font-size: xx-large;
+}
+
+.middle-container {
+    background-color: rgb(36, 110, 170);
+    font-size: large;
+}
+
+.bottom-container {
+    background-color: rgb(36, 110, 170);
+    position: relative;
+    font-size: large;
+}
+
+.bottom-cloud {
+    padding-right: 70%;
+    height: 200px;
+    width: 200px;
+}
+
+.top-cloud {
+    padding-left: 70%;
+    height: 200px;
+    width: 200px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: rgb(11, 83, 143);
+    color: black;
+}
+
+html {
+    background-color: rgb(36, 110, 170);
+}
+
+.img2 {
+    height: 260px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skills {
+    text-align: right;
+    width: 50%;
+    margin-bottom: 15%;
+    margin-left: 30%;
+    line-height: 2;
+}
+
+.imgV2 {
+    margin-left: 180px;
+    width: 220px;
+    float: left;
+}
+
+.imgV1 {
+    width: 240px;
+    float: right;
+    margin-right: 220px;
+}
+
+.myButton {
+    box-shadow: 0px 0px 0px 2px #9fb4f2;
+    background: linear-gradient(to bottom, #005eff 5%, #0077ff 100%);
+    background-color: #005eff;
+    border-radius: 10px;
+    border: 1px solid #0040ff;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 19px;
+    padding: 12px 37px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #283966;
+}
+
+.myButton:hover {
+    background: linear-gradient(to bottom, #0077ff 5%, #005eff 100%);
+    background-color: #0077ff;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+
+/* Inline display element : <Span> 
+   Inline-block
+   inline
+   none
+   visibilitty hidden
+*/
